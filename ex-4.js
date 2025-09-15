@@ -10,4 +10,4 @@ typeof true;
 let name = "John";
 3 > 5; // Expression
 10 == 100;
-200;
+200; // Expression
